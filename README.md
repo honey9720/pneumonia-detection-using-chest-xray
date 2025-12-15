@@ -1,5 +1,4 @@
 # pneumonia-detection-using-chest-xray
-# Pneumonia Detection Using Chest X-Ray
 
 This project is a simple **machine learning application** that helps detect **pneumonia** using **chest X-ray images**. Pneumonia is a lung infection, and doctors often use X-rays to identify it. This project shows how a computer can help in that process.
 
